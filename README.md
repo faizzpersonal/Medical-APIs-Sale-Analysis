@@ -102,7 +102,8 @@ In this phase, we create a data model in Power BI Desktop using the provided dat
 
 By establishing these relationships and incorporating the Date Table, we ensure that the data model supports comprehensive analysis and reporting capabilities, enabling insights into sales trends, customer demographics, and drug performance.
 
-<img width="1034" alt="Screenshot 2024-08-14 at 11 11 35 AM" src="https://github.com/user-attachments/assets/70e4e2b5-20b5-401f-ada5-c89343d112c3">
+
+<img width="1034" alt="Screenshot 2024-08-14 at 11 11 35 AM" src="https://github.com/user-attachments/assets/9e0dd223-ebf2-4a45-bfdb-5d03f5992852">
 
 ## Report
 
@@ -113,9 +114,9 @@ The Power BI report is meticulously crafted across three distinct pages, each de
    - **Top N Revenue-Generating APIs and Customers**: Highlights the top N APIs and customers contributing the most to revenue. This helps in identifying high-value areas and clients.
    - **Filters**: Users can apply filters for selecting specific months and years, enabling them to customize the view according to their needs and focus on particular time periods.
      
-<img width="1242" alt="Screenshot 2024-08-14 at 12 28 47 PM" src="https://github.com/user-attachments/assets/1f1a0d5b-3205-42a7-8b87-4d5d5d7f479e">
+<img width="1242" alt="Screenshot 2024-08-14 at 12 28 47 PM" src="https://github.com/user-attachments/assets/d41d80a8-4aaf-445c-9af4-b90341099548">
 
-<img width="1239" alt="Screenshot 2024-08-14 at 12 35 16 PM" src="https://github.com/user-attachments/assets/8ee842b2-6f66-416b-8a2a-32d469cf4abc">
+<img width="1239" alt="Screenshot 2024-08-14 at 12 35 16 PM" src="https://github.com/user-attachments/assets/25d2dc96-0f72-4c09-9270-c78148f175a0">
 
 
 2. **Customer Page**:
@@ -124,18 +125,18 @@ The Power BI report is meticulously crafted across three distinct pages, each de
      - **Revenue by Age Bin**: Analyzes revenue across different age groups, providing insights into which age segments are driving sales.
      - **Revenue by Country**: Examines revenue performance by country to identify geographical trends and market strengths.
      - **Revenue by Buyer Type**: Differentiates revenue based on buyer types (e.g., buyer, seller) to assess the impact of different buyer categories.
-       
-<img width="1242" alt="Screenshot 2024-08-14 at 12 29 17 PM" src="https://github.com/user-attachments/assets/698115ae-9aba-4eb8-b448-66bc262b3e38">
+
+<img width="1242" alt="Screenshot 2024-08-14 at 12 29 17 PM" src="https://github.com/user-attachments/assets/e434dfb3-1c1c-43c4-953d-553a8d67571e">
+
 
 3. **Report Page**:
    - **Quarterly and MoM Performance**: Provides a detailed report on quarterly performance, showing how sales metrics have evolved over each quarter. It also includes month-over-month (MoM) performance to track short-term trends and fluctuations.
    - **Weekly Revenue of Top 5 Drugs**: Features a heatmap visualization that displays the weekly revenue performance of the top 5 drugs. This allows for a granular view of sales trends and helps in identifying the most profitable products.
    - **Filters**: Offers filters for country and gender, enabling users to focus on specific demographic or regional segments and gain more targeted insights.
-     
-<img width="1243" alt="Screenshot 2024-08-14 at 12 29 46 PM" src="https://github.com/user-attachments/assets/5e333b0c-6dbe-43e5-b1b6-cdcdfa57b5bb">
 
-<img width="1239" alt="Screenshot 2024-08-14 at 12 37 56 PM" src="https://github.com/user-attachments/assets/475ae8cd-6100-4656-8acb-c2c7020db278">
+<img width="1243" alt="Screenshot 2024-08-14 at 12 29 46 PM" src="https://github.com/user-attachments/assets/3a50b5a7-aaa6-4c79-95e9-6403d1405a6d">
 
+<img width="1239" alt="Screenshot 2024-08-14 at 12 37 56 PM" src="https://github.com/user-attachments/assets/24c9bdc0-5ca5-44a5-b249-d827cf8d1b09">
 
 
 This multi-page report is designed to facilitate a thorough analysis of sales performance, customer demographics, and drug revenue trends. By providing detailed metrics, comparisons, and interactive filters, the report supports informed decision-making and strategic planning.
